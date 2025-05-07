@@ -173,13 +173,9 @@ interface OutputPort {
 ?>
 ```
 
-## Imagens Explicativas
+## Imagem Explicativas
 
-### Arquitetura Hexagonal
-
-![Hexagonal Architecture](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hexagonal_Architecture.svg/800px-Hexagonal_Architecture.svg.png)
-
-Fonte: [Wikipedia](https://en.wikipedia.org/wiki/Hexagonal_architecture)
+![alt text](image.png)
 
 ---
 
