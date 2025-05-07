@@ -175,7 +175,7 @@ interface OutputPort {
 
 ## Imagem Explicativas
 
-<img alt="Hexagonal Archteture" src="image.png">
+<img alt="Hexagonal Archteture" src="https://media.licdn.com/dms/image/v2/D4D12AQFS3icpjBu-cA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1699624329864?e=2147483647&v=beta&t=OI31VC075xy1WNXTzDWc_3ioeFIp4byTXGaz1BySlk0">
 
 ---
 
